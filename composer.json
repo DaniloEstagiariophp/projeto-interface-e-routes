@@ -1,0 +1,13 @@
+{
+    "name": "projeto/interface",
+    "description": "projeto interface gerenciamento de rotas e views",
+    "autoload": {
+        "psr-4":
+        {
+            "App\\": "app"
+        }
+    },
+    "require": {
+        "slim/slim" : "^3.9"
+    }
+}
